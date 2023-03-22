@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Six+Caps&display=swap');
+
+
+
+
+
+.container{
+    background-color: white;
+}
+
+h1 {
+    text-transform:uppercase;
+    font-family: 'Six Caps';    
+    font-size: px;
+    border-radius: 0px;
+    background-color: white;
+    max-width: 25%;
+    margin-left: 23px;
+    margin-top:-9px;
+    padding: 1em;
+    text-indent: -20px;
+    
+}
+
+
+header h2 {
+    font-size: 6px;
+    border-radius: 6px;
+    background-color: white;
+    max-width: 30%;
+    padding: 0em;
+    margin-bottom: .4em;
+    margin-top: -49px;
+    margin-left: 56px;
+    text-indent: -20px;
+}
+
+.box header h1, h2{
+    display: flex;
+    padding: 10px;
+    width: 50%;
+}
+
+body{
+    background-image: url("/images/artbackground4.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    height: 35em;    
+}
+
+
+h2{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+article ,h2{
+    margin-top: 80px;
+    margin-left: 23px;
+    border-radius: px;
+    opacity: 0.7;
+    background-color: white;
+    max-width: 67%;
+    max-height: 111px;
+    font-size: 15px;
+        
+}
+ p{
+    text-indent: 34px;
+    border-radius: 25px;   
+ }
+
+ footer{
+    margin-top: 23px;
+    border-radius: 0px;
+    background-color: white;
+    max-width: px;
+    max-height: 2323px;
+    margin-top: -6px;
+    text-indent: 34px;
+    opacity: 1;
+ }
+
+
+
